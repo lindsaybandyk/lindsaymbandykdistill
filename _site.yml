@@ -13,4 +13,3 @@ navbar:
       href: projects.html
 output: distill::distill_article
 
-\
